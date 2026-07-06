@@ -2,13 +2,13 @@
 
 A community platform called 'Kevesh HaKvasim' (The Sheep's Sheep) focused on Q&A interactions. The name has a playful, quirky character suggesting a fun and informal community vibe with a sheep-themed identity. The platform aims to connect community members through questions and answers in an engaging, community-driven environment.
 
-Source: https://-f290a835.zappy5.app
+Source: https://example.com
 
 ---
 
 ## שואלים ועונים, מתחברים בקהילה — כבש הכבשים
 
-URL: https://-f290a835.zappy5.app
+URL: https://example.com
 Description: פלטפורמת קהילה תוססת לשאלות ותשובות עם טאץ&#39; כבשים שובב. הצטרפו עכשיו ל&#39;כבש הכבשים&#39;, שתפו ידע, גלו תובנות חדשות ובנו קשרים בקהילה הכי חמה ומגבשת ברשת.
 
 שואלים ועונים, מתחברים בקהילה — כבש הכבשים
@@ -762,7 +762,7 @@ Description: פלטפורמת קהילה תוססת לשאלות ותשובות 
 
 ## מדיניות פרטיות
 
-URL: https://-f290a835.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1014,7 +1014,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-f290a835.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1275,7 +1275,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-f290a835.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1555,7 +1555,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה - כבש הכבשים
 
-URL: https://-f290a835.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: כבש הכבשים - תודה - כבש הכבשים
 
 תודה - כבש הכבשים
