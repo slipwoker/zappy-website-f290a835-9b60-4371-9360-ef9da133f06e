@@ -1,0 +1,68 @@
+# כבש הכבשים — Generative Engine Optimization Map
+
+> A community platform called 'Kevesh HaKvasim' (The Sheep's Sheep) focused on Q&A interactions. The name has a playful, quirky character suggesting a fun and informal community vibe with a sheep-themed identity. The platform aims to connect community members through questions and answers in an engaging, community-driven environment.
+
+---
+
+## Pages
+
+### בית
+https://-f290a835.zappy5.app
+פלטפורמת קהילה תוססת לשאלות ותשובות עם טאץ&#39; כבשים שובב. הצטרפו עכשיו ל&#39;כבש הכבשים&#39;, שתפו ידע, גלו תובנות חדשות ובנו קשרים בקהילה הכי חמה ומגבשת ברשת.
+
+### תודה - כבש הכבשים
+https://-f290a835.zappy5.app/thank-you
+כבש הכבשים - תודה - כבש הכבשים
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f290a835.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f290a835.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f290a835.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-f290a835.zappy5.app
+- Endpoint: https://-f290a835.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About כבש הכבשים
+A community platform called 'Kevesh HaKvasim' (The Sheep's Sheep) focused on Q&A interactions. The name has a playful, quirky character suggesting a fun and informal community vibe with a sheep-themed identity. The platform aims to connect community members through questions and answers in an engaging, community-driven environment.
+
+## Target Audience
+- גברים מעל גיל 18
+
+## Industry
+Online Community / Forum
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-f290a835.zappy5.app/sitemap.xml
+- Robots: https://-f290a835.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-f290a835.zappy5.app/llms-full.txt
